@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=java.lang.String\ formatNumForCard(int)
+comment0.text=\ @return\ Returns\ a\ formatted\ string\ version\ of\ the\ number\r\n\ \ \ \ \ \ \ \ \ \ specified\ as\ <code>num</code>\ suitable\ for\ placing\ in\r\n\ \ \ \ \ \ \ \ \ \ a\ cell\ on\ a\ bingo\ card.\r\n
+comment1.params=value
+comment1.target=BingoValueCell(int)
+comment1.text=\r\n\ Constructs\ objects\ of\ class\ BingoValueCell\ with\ the\ given\ value\r\n\ and\ the\ "unmarked\ value"\ color\ (see\ BingoGUI.getUnmarkedColor()).\r\n
+comment2.params=value\ textColor
+comment2.target=BingoValueCell(int,\ java.awt.Color)
+comment2.text=\r\n\ Constructs\ objects\ of\ class\ BingoValueCell\ with\ the\ given\r\n\ value\ and\ text\ color.\r\n
+comment3.params=value\ textColor
+comment3.target=BingoValueCell(java.lang.String,\ java.awt.Color)
+comment3.text=\r\n\ Constructs\ objects\ of\ class\ BingoValueCell\ with\ the\ given\r\n\ value\ and\ text\ color.\r\n
+comment4.params=
+comment4.target=int\ value()
+comment4.text=\ Returns\ the\ value\ in\ this\ cell\ as\ an\ integer\ (if\ it\ is\ an\ integer).\r\n
+comment5.params=value
+comment5.target=boolean\ textEqualsValue(int)
+comment5.text=\ Returns\ <code>true</code>\ if\ the\ text\ in\ this\ cell\ is\ equivalent\r\n\ \ to\ the\ formatted\ string\ version\ of\ the\ given\ <code>value</code>;\r\n\ \ returns\ <code>false</code>\ otherwise.\r\n
+comment6.params=
+comment6.target=boolean\ isMarked()
+comment6.text=\ Returns\ <code>true</code>\ if\ this\ cell\ has\ been\ marked;\r\n\ \ \ \ \ \ \ \ \ \ <code>false</code>\ otherwise.\r\n
+numComments=7

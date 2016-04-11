@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ description()
+comment1.params=card
+comment1.target=boolean\ isWinner(BingoCard)
+numComments=2

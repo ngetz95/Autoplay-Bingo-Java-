@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.awt.Color\ getColHeadingColor()
+comment0.text=Returns\ the\ color\ to\ use\ for\ column\ headings.
+comment1.params=
+comment1.target=java.awt.Color\ getMarkedColor()
+comment1.text=Returns\ the\ color\ to\ use\ for\ unmarked\ Bingo\ values.
+comment2.params=
+comment2.target=java.awt.Color\ getUnmarkedColor()
+comment2.text=Returns\ the\ color\ to\ use\ for\ unmarked\ Bingo\ values.
+comment3.params=card\ game\ author\ assistance\ versionOrDate\ helpFile
+comment3.target=BingoGUI(BingoCard,\ BingoGame,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.text=\ Constructs\ a\ graphical\ user\ interface\ to\ display\ the\ given\r\n\ \ Bingo\ card.\r\n\ \ \ \ @param\ card\ \ \ \ \ \ \ the\ card\ to\ display\r\n\ \ \ \ @param\ game\ \ \ \ \ \ \ the\ game\ controller\r\n\ \ \ \ @param\ author\ \ \ \ \ the\ author(s)\ of\ the\ program\r\n\ \ \ \ @param\ assistance\ the\ names\ of\ anyone\ who\ provided\ assistance\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ to\ the\ author(s)\r\n\ \ \ \ @param\ versionOrDate\ \ a\ number\ or\ date\ identifying\ the\ version\ of\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ program\ being\ executed\r\n
+comment4.params=
+comment4.target=javax.swing.JPanel\ defineContent()
+comment4.text=Defines\ contents\ of\ main\ window\ panel.
+numComments=5
